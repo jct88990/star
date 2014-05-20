@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/home" android:showAsAction="always|withText" android:title="@string/menu_0"></item>
+    <item android:id="@+id/intro" android:title="@string/menu_1"></item>
+    <item android:id="@+id/cast" android:title="@string/menu_2"></item>
+    <item android:id="@+id/highlight" android:title="@string/menu_3"></item>
+    <item android:id="@+id/ost" android:title="@string/menu_4"></item>
+    <item android:id="@+id/word" android:title="@string/menu_5"></item>
+    <item android:id="@+id/about" android:title="@string/menu_about"></item>
+
+</menu>
